@@ -60,8 +60,7 @@ Personal Voice is available in English and Mandarin Chinese (China mainland).
 ---
 
 ## 🔒 Privacy & Terms
-- [Privacy Policy](https://tuzcuumut.github.io/pray-quran-pages/privacy-policy)
-  
+- [Privacy Policy](https://tuzcuumut.github.io/pray-quran-pages/privacy-policy) 
 - [Terms of Use]([https://www.apple.com/legal/internet-services/itunes/dev/stdeula/])
 
 ---
